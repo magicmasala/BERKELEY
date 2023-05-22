@@ -112,4 +112,11 @@ public class BerkeleyAlgorithm {
 //com
 
 javac *.java
+
+
+
+
+
+
+
 java BerkeleyAlgorithm
