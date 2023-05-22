@@ -215,7 +215,7 @@ public class BerkeleyAlgorithm {
 
 javac *.java
 
-java 
+java BerkeleyAlgorithm
 
 
 
