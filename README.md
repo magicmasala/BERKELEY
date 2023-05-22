@@ -109,7 +109,7 @@ public class BerkeleyAlgorithm {
 }
 
 
-//com
+//command
 
 javac *.java
 
